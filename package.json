@@ -1,0 +1,25 @@
+{
+  "name": "txp-metrics",
+  "version": "0.0.1",
+  "description": "Google Analytics wrapper for Test Pilot experiments. Transparently supports Mozilla internal metrics while the experiment is in Test Pilot.",
+  "main": "txp-metrics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6a68/txp-metrics.git"
+  },
+  "keywords": [
+    "testpilot",
+    "mozilla",
+    "metrics",
+    "googleanalytics"
+  ],
+  "author": "",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/6a68/txp-metrics/issues"
+  },
+  "homepage": "https://github.com/6a68/txp-metrics#readme"
+}
